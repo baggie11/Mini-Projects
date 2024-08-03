@@ -2,4 +2,4 @@ This is a basic level language translator built using the googletrans library.
 
 This allows for input to be recevied as either audio or text.
 
-The users can choose the required language and the translated content will be displayed!
+The users can choose the required language and the translated text will be displayed and also played as audio.
